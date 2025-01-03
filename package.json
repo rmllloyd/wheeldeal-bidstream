@@ -3,11 +3,10 @@
     "@vitejs/plugin-react": "^4.3.4",
     "lovable-tagger": "^1.0.19",
     "path": "^0.12.7"
-    "scripts": {
-      "start": "vite",
-      "dev": "vite",
-      "build:dev": "vite build --mode development"
-}
-
+  },
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build:dev": "vite build --mode development"
   }
 }
